@@ -3,7 +3,7 @@
 /**
  * main - print _putchar
  * followed by a new line
- * Return: 0 Always 
+ * Return: 0 Always
  */
 int main(void)
 {
@@ -16,6 +16,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	
 	return (0);
 }
