@@ -1,1 +1,1 @@
-# This respository contains alx task on C programming language
+# This repository contains task on alx low level programming.
